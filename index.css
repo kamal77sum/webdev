@@ -1,0 +1,35 @@
+p {
+    background-color: #aabbcc;
+    color: rgb(104, 104, 201);
+    font-family: Arial;
+    text-align: center;
+  }
+  h2 {
+    color: red; /*comment*/
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  a {
+      color: aquamarine;
+      text-decoration:line-through;
+
+  }
+  a:hover{
+      color: blue;
+      text-decoration: underline;
+  }
+  #first-id {
+      color: rgb(123, 21, 215);
+      font-size: medium;
+      font-weight: bold;
+      font-family: sans-serif;
+  }
+  #second-id {
+      color: green;
+      font-size: 33px;
+  }
+
+  h3 {
+      font-family: 'Comforter Brush' ;
+      text-align: center;
+      color: rgb(89, 78, 09);
+  }
