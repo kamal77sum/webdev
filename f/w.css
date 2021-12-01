@@ -1,0 +1,18 @@
+li {
+  list-style: lower-greek;
+  text-decoration: line-through;
+  background-color: rgb(255, 0, 0);
+  padding: 30px;
+  border-radius: 50%;
+  width: 350px;
+  margin: auto;
+  color: rgb(0, 0, 0);
+}
+p {
+  color: rgb(0, 24, 46);
+  text-align: center;
+}
+.heading {
+  margin: auto;
+  width: 600px;
+}
